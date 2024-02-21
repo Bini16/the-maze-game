@@ -37,6 +37,6 @@ Credits
 The Maze is developed by [BINIYAM ABRAHAM Bini16]. Special thanks to [Danson Mwangombe and Charles Osoti].
 
 Contact
-For questions, feedback, or support, please contact [abrahambiniyam6@gmail.com]
+For questions, feedback, or support, please contact [abrahambiniyam6@gmail.com,www.linkedin.com/in/biniyam-abraham]
 
 Feel free to customize this README.md template to fit the specific details and requirements of your project. If you have any questions or need further assistance, please let me know!
